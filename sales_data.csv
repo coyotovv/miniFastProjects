@@ -1,0 +1,21 @@
+OrderID,Product,Category,Quantity,Price,Date,CustomerSegment
+1001,Laptop,Electronics,1,1200.00,2025-01-05,New
+1002,Mouse,Electronics,2,25.50,2025-01-05,Existing
+1003,Keyboard,Electronics,1,75.00,2025-01-06,Existing
+1004,T-Shirt,Apparel,3,20.00,2025-01-06,New
+1005,Monitor,Electronics,1,300.00,2025-01-07,New
+1006,Jeans,Apparel,1,55.00,2025-01-07,Existing
+1007,Webcam,Electronics,1,40.00,2025-01-08,New
+1008,Desk Chair,Furniture,1,150.00,2025-01-08,Existing
+1009,Headphones,Electronics,1,80.00,2025-01-09,Existing
+1010,Socks,Apparel,5,8.00,2025-01-09,New
+1011,External HDD,Electronics,1,70.00,2025-01-10,Existing
+1012,Coffee Table,Furniture,1,90.00,2025-01-10,New
+1013,Mouse,Electronics,1,25.50,2025-01-11,Existing
+1014,T-Shirt,Apparel,2,20.00,2025-01-11,New
+1015,Desk Lamp,Furniture,1,35.00,2025-01-12,Existing
+1016,Smartphone,Electronics,1,800.00,2025-01-12,New
+1017,Keyboard,Electronics,1,75.00,2025-01-13,Existing
+1018,Blender,Kitchen,1,60.00,2025-01-13,New
+1019,Towel Set,Home Goods,2,30.00,2025-01-14,Existing
+1020,Gaming Console,Electronics,1,450.00,2025-01-14,New
